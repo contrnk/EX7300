@@ -2,3 +2,8 @@ src-git packages https://git.openwrt.org/feed/packages.git^9671ba6eb02e0069ffec4
 src-git luci https://git.openwrt.org/project/luci.git^5a811622d8216fdae46e1b486b471f593dee222a
 src-git routing https://git.openwrt.org/feed/routing.git^83ef3784a9092cfd0a900cc28e2ed4e13671d667
 src-git telephony https://git.openwrt.org/feed/telephony.git^9746ae8f964e18f04b64fbe1956366954ff223f8
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git jerrykuku https://github.com/jerrykuku/luci-theme-argon.git
+src-git kiddin9 https://github.com/kiddin9/luci-theme-edge.git
+src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall2
